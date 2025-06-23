@@ -5,5 +5,5 @@
 <div align="center"> 
     <a href="https://ethyoung.me/">Me ·</a>
     <a href="https://ethyoung.me/blogs">Blog ·</a>
-    <a href="ttps://ethyoung.me/notes">Note</a>
+    <a href="https://ethyoung.me/notes">Note</a>
 </div>
